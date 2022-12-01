@@ -106,3 +106,1126 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 1669553716720	Marionette	INFO	Stopped listening on port 57269
+1669565851952	geckodriver	INFO	Listening on 127.0.0.1:55301
+1669565852393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55302" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile2cnQx8"
+*** You are running in headless mode.
+2022-11-27 17:17:32.623 plugin-container[10089:124455] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:17:32.623 plugin-container[10089:124455] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669565852642	Marionette	INFO	Marionette enabled
+1669565852654	Marionette	INFO	Listening on port 55309
+2022-11-27 17:17:32.700 plugin-container[10089:124455] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:17:32.700 plugin-container[10089:124455] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:17:32.700 plugin-container[10089:124458] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:17:32.700 plugin-container[10089:124458] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 55309
+WebDriver BiDi listening on ws://127.0.0.1:55302
+1669565852786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile2cnQx8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55302/devtools/browser/081dfaef-a425-4c29-a0f1-07ed771f2858
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669565856990	Marionette	INFO	Stopped listening on port 55309
+1669565881485	geckodriver	INFO	Listening on 127.0.0.1:55356
+1669565881920	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55357" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileux9frS"
+*** You are running in headless mode.
+2022-11-27 17:18:02.138 plugin-container[10249:125852] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:18:02.138 plugin-container[10249:125852] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:18:02.140 plugin-container[10249:125852] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:18:02.140 plugin-container[10249:125852] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:18:02.140 plugin-container[10249:125850] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:18:02.140 plugin-container[10249:125850] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669565882148	Marionette	INFO	Marionette enabled
+1669565882155	Marionette	INFO	Listening on port 55364
+Read port: 55364
+WebDriver BiDi listening on ws://127.0.0.1:55357
+1669565882283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileux9frS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55357/devtools/browser/ecf389e7-a606-4922-9160-854151e26122
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669565892610	Marionette	INFO	Stopped listening on port 55364
+1669565977349	geckodriver	INFO	Listening on 127.0.0.1:55506
+1669565977798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55507" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileejV8T3"
+*** You are running in headless mode.
+2022-11-27 17:19:38.030 plugin-container[10652:129293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:19:38.030 plugin-container[10652:129293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669565978047	Marionette	INFO	Marionette enabled
+2022-11-27 17:19:38.053 plugin-container[10652:129293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:19:38.053 plugin-container[10652:129293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:19:38.053 plugin-container[10652:129291] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:19:38.053 plugin-container[10652:129291] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669565978064	Marionette	INFO	Listening on port 55514
+Read port: 55514
+WebDriver BiDi listening on ws://127.0.0.1:55507
+1669565978187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileejV8T3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55507/devtools/browser/0d7168fe-31cb-470a-ad4c-c60d4c11be5f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669565983283	Marionette	INFO	Stopped listening on port 55514
+1669566006931	geckodriver	INFO	Listening on 127.0.0.1:55562
+1669566007367	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55563" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile6MnW8X"
+*** You are running in headless mode.
+2022-11-27 17:20:07.568 plugin-container[10678:129932] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:20:07.568 plugin-container[10678:129932] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:20:07.571 plugin-container[10678:129932] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:20:07.571 plugin-container[10678:129932] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:20:07.571 plugin-container[10678:129930] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:20:07.571 plugin-container[10678:129930] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669566007580	Marionette	INFO	Marionette enabled
+1669566007587	Marionette	INFO	Listening on port 55570
+Read port: 55570
+WebDriver BiDi listening on ws://127.0.0.1:55563
+1669566007719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile6MnW8X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55563/devtools/browser/9ecd0925-f87f-4669-a5a0-0a8aa8061deb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+1669566011978	Marionette	INFO	Stopped listening on port 55570
+1669566067169	geckodriver	INFO	Listening on 127.0.0.1:55623
+1669566067624	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55624" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileEwZQ1e"
+*** You are running in headless mode.
+2022-11-27 17:21:07.825 plugin-container[10914:131892] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:21:07.825 plugin-container[10914:131892] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:21:07.829 plugin-container[10914:131892] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:21:07.829 plugin-container[10914:131892] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:21:07.830 plugin-container[10914:131921] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:21:07.830 plugin-container[10914:131921] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669566067834	Marionette	INFO	Marionette enabled
+1669566067862	Marionette	INFO	Listening on port 55631
+Read port: 55631
+WebDriver BiDi listening on ws://127.0.0.1:55624
+1669566067970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileEwZQ1e/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55624/devtools/browser/f3eefed3-2d50-47a4-b0b8-8e278bd72e25
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+1669566071959	Marionette	INFO	Stopped listening on port 55631
+1669566116551	geckodriver	INFO	Listening on 127.0.0.1:55681
+1669566116992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55682" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile68vJPL"
+*** You are running in headless mode.
+2022-11-27 17:21:57.203 plugin-container[11066:133442] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:21:57.203 plugin-container[11066:133442] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:21:57.205 plugin-container[11066:133442] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:21:57.205 plugin-container[11066:133442] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:21:57.205 plugin-container[11066:133465] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:21:57.205 plugin-container[11066:133465] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669566117214	Marionette	INFO	Marionette enabled
+1669566117221	Marionette	INFO	Listening on port 55689
+Read port: 55689
+WebDriver BiDi listening on ws://127.0.0.1:55682
+1669566117358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile68vJPL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55682/devtools/browser/2ea17c4d-04f5-4a8b-9fcc-cd4a105e6f82
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669566121771	Marionette	INFO	Stopped listening on port 55689
+1669566172480	geckodriver	INFO	Listening on 127.0.0.1:55739
+1669566172911	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55740" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileaZGEbE"
+*** You are running in headless mode.
+2022-11-27 17:22:53.121 plugin-container[11259:135200] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:22:53.121 plugin-container[11259:135200] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:22:53.124 plugin-container[11259:135200] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:22:53.124 plugin-container[11259:135200] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:22:53.124 plugin-container[11259:135202] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:22:53.124 plugin-container[11259:135202] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669566173131	Marionette	INFO	Marionette enabled
+1669566173159	Marionette	INFO	Listening on port 55747
+Read port: 55747
+WebDriver BiDi listening on ws://127.0.0.1:55740
+1669566173267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileaZGEbE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55740/devtools/browser/7d3a6f5a-8f96-4693-97dd-dab508c25fad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669566178456	Marionette	INFO	Stopped listening on port 55747
+1669566248907	geckodriver	INFO	Listening on 127.0.0.1:55800
+1669566249361	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55801" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileEJ6kiJ"
+*** You are running in headless mode.
+2022-11-27 17:24:09.566 plugin-container[11542:137600] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:24:09.566 plugin-container[11542:137600] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:24:09.570 plugin-container[11542:137600] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:24:09.570 plugin-container[11542:137600] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:24:09.570 plugin-container[11542:137626] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:24:09.570 plugin-container[11542:137626] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669566249576	Marionette	INFO	Marionette enabled
+1669566249604	Marionette	INFO	Listening on port 55808
+Read port: 55808
+WebDriver BiDi listening on ws://127.0.0.1:55801
+1669566249712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileEJ6kiJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55801/devtools/browser/91ced04a-bfa2-421d-bd76-95b254444870
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669566264075	Marionette	INFO	Stopped listening on port 55808
+1669566433876	geckodriver	INFO	Listening on 127.0.0.1:55878
+1669566434321	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55879" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofiletKd7Pf"
+*** You are running in headless mode.
+2022-11-27 17:27:14.550 plugin-container[11918:141270] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:27:14.550 plugin-container[11918:141270] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669566434569	Marionette	INFO	Marionette enabled
+1669566434581	Marionette	INFO	Listening on port 55886
+2022-11-27 17:27:14.603 plugin-container[11918:141270] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:27:14.604 plugin-container[11918:141270] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:27:14.604 plugin-container[11918:141274] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:27:14.604 plugin-container[11918:141274] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 55886
+WebDriver BiDi listening on ws://127.0.0.1:55879
+1669566434708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofiletKd7Pf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55879/devtools/browser/4672f57e-d145-4fe6-b06e-2b5894130f75
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+1669566438991	Marionette	INFO	Stopped listening on port 55886
+1669566482101	geckodriver	INFO	Listening on 127.0.0.1:55937
+1669566482541	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55938" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileCRJtwY"
+*** You are running in headless mode.
+2022-11-27 17:28:02.758 plugin-container[12216:143596] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:28:02.759 plugin-container[12216:143596] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:28:02.760 plugin-container[12216:143596] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:28:02.760 plugin-container[12216:143596] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:28:02.760 plugin-container[12216:143598] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:28:02.760 plugin-container[12216:143598] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669566482767	Marionette	INFO	Marionette enabled
+1669566482775	Marionette	INFO	Listening on port 55945
+Read port: 55945
+WebDriver BiDi listening on ws://127.0.0.1:55938
+1669566482906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileCRJtwY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55938/devtools/browser/444aca97-c5dd-4bbd-8435-24f5165f1bfb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669566486927	Marionette	INFO	Stopped listening on port 55945
+1669566572275	geckodriver	INFO	Listening on 127.0.0.1:55996
+1669566572714	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55997" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilexoVdcf"
+*** You are running in headless mode.
+2022-11-27 17:29:32.922 plugin-container[12487:145980] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:29:32.922 plugin-container[12487:145980] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:29:32.925 plugin-container[12487:145980] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:29:32.925 plugin-container[12487:145980] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:29:32.925 plugin-container[12487:145986] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:29:32.925 plugin-container[12487:145986] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669566572932	Marionette	INFO	Marionette enabled
+1669566572939	Marionette	INFO	Listening on port 56004
+Read port: 56004
+WebDriver BiDi listening on ws://127.0.0.1:55997
+1669566573075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilexoVdcf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55997/devtools/browser/8fbda6c2-e38d-4fa5-950c-59e23bc230a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669566586149	Marionette	INFO	Stopped listening on port 56004
+1669567160687	geckodriver	INFO	Listening on 127.0.0.1:56124
+1669567161138	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56125" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile8XHvRJ"
+*** You are running in headless mode.
+2022-11-27 17:39:21.387 plugin-container[15029:164416] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:39:21.387 plugin-container[15029:164416] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669567161405	Marionette	INFO	Marionette enabled
+2022-11-27 17:39:21.421 plugin-container[15029:164416] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:39:21.421 plugin-container[15029:164416] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:39:21.422 plugin-container[15029:164419] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:39:21.422 plugin-container[15029:164419] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669567161428	Marionette	INFO	Listening on port 56132
+Read port: 56132
+WebDriver BiDi listening on ws://127.0.0.1:56125
+1669567161535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile8XHvRJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56125/devtools/browser/3db83540-bcb5-4973-853d-0a888e467005
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669567165716	Marionette	INFO	Stopped listening on port 56132
+1669813605167	geckodriver	INFO	Listening on 127.0.0.1:63131
+1669813605611	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63132" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofiletMG8v9"
+*** You are running in headless mode.
+2022-11-30 14:06:45.879 plugin-container[24841:461640] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:06:45.879 plugin-container[24841:461640] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669813605888	Marionette	INFO	Marionette enabled
+2022-11-30 14:06:45.908 plugin-container[24841:461640] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:06:45.908 plugin-container[24841:461640] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:06:45.908 plugin-container[24841:461666] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:06:45.908 plugin-container[24841:461666] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669813605914	Marionette	INFO	Listening on port 63139
+Read port: 63139
+WebDriver BiDi listening on ws://127.0.0.1:63132
+1669813606025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofiletMG8v9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63132/devtools/browser/f1003e1c-d76b-4e4f-923b-d5984b4d7c47
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript warning: https://findsynsrapport.fstyr.dk/_layouts/sp.ribbon.js?rev=F%2BUEJ66rbXzSvpf7nN69wQ%3D%3D, line 2: unreachable code after return statement
+1669813679497	geckodriver	INFO	Listening on 127.0.0.1:63189
+1669813679936	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63190" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileps5GI7"
+*** You are running in headless mode.
+2022-11-30 14:08:00.160 plugin-container[24871:462540] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:08:00.160 plugin-container[24871:462540] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:08:00.161 plugin-container[24871:462540] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:08:00.162 plugin-container[24871:462540] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:08:00.162 plugin-container[24871:462546] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:08:00.162 plugin-container[24871:462546] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669813680173	Marionette	INFO	Marionette enabled
+1669813680182	Marionette	INFO	Listening on port 63197
+Read port: 63197
+WebDriver BiDi listening on ws://127.0.0.1:63190
+1669813680319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileps5GI7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63190/devtools/browser/d6f0472b-5da4-4e09-9b55-4b5be7338def
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669813687290	Marionette	INFO	Stopped listening on port 63197
+1669813731967	geckodriver	INFO	Listening on 127.0.0.1:63247
+1669813732433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63248" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilecMLdQg"
+*** You are running in headless mode.
+2022-11-30 14:08:52.658 plugin-container[24900:463286] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:08:52.658 plugin-container[24900:463286] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:08:52.662 plugin-container[24900:463286] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:08:52.662 plugin-container[24900:463286] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:08:52.663 plugin-container[24900:463288] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:08:52.663 plugin-container[24900:463288] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669813732669	Marionette	INFO	Marionette enabled
+1669813732676	Marionette	INFO	Listening on port 63255
+Read port: 63255
+WebDriver BiDi listening on ws://127.0.0.1:63248
+1669813732817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilecMLdQg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63248/devtools/browser/63754472-f04a-4146-9e0c-c81f78b2fa6d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+1669813738411	Marionette	INFO	Stopped listening on port 63255
+1669813788022	geckodriver	INFO	Listening on 127.0.0.1:63305
+1669813788466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63306" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilegl5Rfq"
+*** You are running in headless mode.
+2022-11-30 14:09:48.685 plugin-container[24926:464019] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:09:48.685 plugin-container[24926:464019] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:09:48.687 plugin-container[24926:464019] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:09:48.687 plugin-container[24926:464019] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:09:48.687 plugin-container[24926:464024] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:09:48.687 plugin-container[24926:464024] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669813788696	Marionette	INFO	Marionette enabled
+1669813788704	Marionette	INFO	Listening on port 63313
+Read port: 63313
+WebDriver BiDi listening on ws://127.0.0.1:63306
+1669813788838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilegl5Rfq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63306/devtools/browser/05dbe4c1-ff4e-476b-a587-a5ba943d60dc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669813802820	Marionette	INFO	Stopped listening on port 63313
+1669813880649	geckodriver	INFO	Listening on 127.0.0.1:63364
+1669813881102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63365" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile0LNlRx"
+*** You are running in headless mode.
+2022-11-30 14:11:21.345 plugin-container[24964:465033] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:11:21.345 plugin-container[24964:465033] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:11:21.347 plugin-container[24964:465033] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:11:21.347 plugin-container[24964:465033] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:11:21.347 plugin-container[24964:465038] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:11:21.347 plugin-container[24964:465038] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669813881356	Marionette	INFO	Marionette enabled
+1669813881364	Marionette	INFO	Listening on port 63372
+Read port: 63372
+WebDriver BiDi listening on ws://127.0.0.1:63365
+1669813881501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile0LNlRx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63365/devtools/browser/2d6ddea8-2ba3-4c1c-b81d-f3462f4d07f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+1669813886201	Marionette	INFO	Stopped listening on port 63372
+1669813924814	geckodriver	INFO	Listening on 127.0.0.1:63432
+1669813925269	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63433" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile30IFrJ"
+*** You are running in headless mode.
+2022-11-30 14:12:05.508 plugin-container[24989:465686] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:12:05.508 plugin-container[24989:465686] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:12:05.510 plugin-container[24989:465686] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:12:05.510 plugin-container[24989:465686] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:12:05.510 plugin-container[24989:465689] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:12:05.510 plugin-container[24989:465689] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669813925519	Marionette	INFO	Marionette enabled
+1669813925526	Marionette	INFO	Listening on port 63440
+Read port: 63440
+WebDriver BiDi listening on ws://127.0.0.1:63433
+1669813925663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile30IFrJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63433/devtools/browser/45938905-cba0-474e-b1de-ed4db2737c53
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669813930353	Marionette	INFO	Stopped listening on port 63440
+1669814048607	geckodriver	INFO	Listening on 127.0.0.1:63507
+1669814049043	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63508" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileKMkx3i"
+*** You are running in headless mode.
+2022-11-30 14:14:09.258 plugin-container[25023:467516] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:14:09.258 plugin-container[25023:467516] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:14:09.260 plugin-container[25023:467516] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:14:09.260 plugin-container[25023:467516] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:14:09.260 plugin-container[25023:467524] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:14:09.260 plugin-container[25023:467524] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669814049271	Marionette	INFO	Marionette enabled
+1669814049279	Marionette	INFO	Listening on port 63515
+Read port: 63515
+WebDriver BiDi listening on ws://127.0.0.1:63508
+1669814049423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileKMkx3i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63508/devtools/browser/446f3e75-97f7-4a20-b1b6-002b8b6185f6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669814054420	Marionette	INFO	Stopped listening on port 63515
+1669815060996	geckodriver	INFO	Listening on 127.0.0.1:63773
+1669815061430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63774" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileVQn38b"
+*** You are running in headless mode.
+2022-11-30 14:31:01.650 plugin-container[25352:476004] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:31:01.650 plugin-container[25352:476004] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:31:01.656 plugin-container[25352:476004] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:31:01.657 plugin-container[25352:476004] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:31:01.657 plugin-container[25352:476002] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:31:01.657 plugin-container[25352:476002] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669815061657	Marionette	INFO	Marionette enabled
+1669815061686	Marionette	INFO	Listening on port 63781
+Read port: 63781
+WebDriver BiDi listening on ws://127.0.0.1:63774
+1669815061800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileVQn38b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63774/devtools/browser/4abeb30a-e641-4d83-bcef-0e6f22895e65
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669815077043	Marionette	INFO	Stopped listening on port 63781
+1669815135682	geckodriver	INFO	Listening on 127.0.0.1:63840
+1669815136118	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63841" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofiled8ECTO"
+*** You are running in headless mode.
+2022-11-30 14:32:16.338 plugin-container[25380:476824] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:32:16.338 plugin-container[25380:476824] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:32:16.340 plugin-container[25380:476824] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:32:16.340 plugin-container[25380:476824] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:32:16.341 plugin-container[25380:476832] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:32:16.341 plugin-container[25380:476832] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669815136349	Marionette	INFO	Marionette enabled
+1669815136356	Marionette	INFO	Listening on port 63848
+Read port: 63848
+WebDriver BiDi listening on ws://127.0.0.1:63841
+1669815136497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofiled8ECTO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63841/devtools/browser/a404a573-c3c4-4764-948e-5dcc2908e338
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669815141270	Marionette	INFO	Stopped listening on port 63848
+1669815417992	geckodriver	INFO	Listening on 127.0.0.1:63914
+1669815418434	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63915" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileRBbZET"
+*** You are running in headless mode.
+2022-11-30 14:36:58.655 plugin-container[25445:479251] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:36:58.655 plugin-container[25445:479251] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:36:58.656 plugin-container[25445:479251] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:36:58.657 plugin-container[25445:479251] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:36:58.657 plugin-container[25445:479249] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:36:58.657 plugin-container[25445:479249] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669815418668	Marionette	INFO	Marionette enabled
+1669815418697	Marionette	INFO	Listening on port 63922
+Read port: 63922
+WebDriver BiDi listening on ws://127.0.0.1:63915
+1669815418816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileRBbZET/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63915/devtools/browser/81a20c7a-76ee-4481-830c-2fb809735d32
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669815430895	Marionette	INFO	Stopped listening on port 63922
+1669815854894	geckodriver	INFO	Listening on 127.0.0.1:64037
+1669815855333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64038" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile2ZuSaL"
+*** You are running in headless mode.
+2022-11-30 14:44:15.549 plugin-container[25526:482218] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:44:15.549 plugin-container[25526:482218] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:44:15.551 plugin-container[25526:482218] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:44:15.551 plugin-container[25526:482218] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:44:15.551 plugin-container[25526:482216] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:44:15.551 plugin-container[25526:482216] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669815855562	Marionette	INFO	Marionette enabled
+1669815855590	Marionette	INFO	Listening on port 64045
+Read port: 64045
+WebDriver BiDi listening on ws://127.0.0.1:64038
+1669815855709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile2ZuSaL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64038/devtools/browser/64f9fbe7-65e6-4f5e-800c-40271c92678c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669815861594	Marionette	INFO	Stopped listening on port 64045
+1669815882245	geckodriver	INFO	Listening on 127.0.0.1:64092
+1669815882671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64093" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile48TyJh"
+*** You are running in headless mode.
+2022-11-30 14:44:42.889 plugin-container[25550:482804] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:44:42.890 plugin-container[25550:482804] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:44:42.892 plugin-container[25550:482804] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:44:42.892 plugin-container[25550:482804] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:44:42.892 plugin-container[25550:482812] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:44:42.892 plugin-container[25550:482812] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669815882904	Marionette	INFO	Marionette enabled
+1669815882912	Marionette	INFO	Listening on port 64100
+Read port: 64100
+WebDriver BiDi listening on ws://127.0.0.1:64093
+1669815883050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile48TyJh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64093/devtools/browser/4fc17b8c-bf47-4819-9d8e-bedf1bb2eb14
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669815887135	Marionette	INFO	Stopped listening on port 64100
+1669815928484	geckodriver	INFO	Listening on 127.0.0.1:64150
+1669815928910	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64151" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileJBJ4e5"
+*** You are running in headless mode.
+2022-11-30 14:45:29.126 plugin-container[25577:483504] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:45:29.126 plugin-container[25577:483504] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:45:29.128 plugin-container[25577:483504] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:45:29.128 plugin-container[25577:483504] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:45:29.128 plugin-container[25577:483506] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:45:29.128 plugin-container[25577:483506] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669815929138	Marionette	INFO	Marionette enabled
+1669815929145	Marionette	INFO	Listening on port 64158
+Read port: 64158
+WebDriver BiDi listening on ws://127.0.0.1:64151
+1669815929287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileJBJ4e5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64151/devtools/browser/db117e5b-13bb-4773-bedb-7f196bbf865b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+1669815936140	Marionette	INFO	Stopped listening on port 64158
+1669815952089	geckodriver	INFO	Listening on 127.0.0.1:64204
+1669815952551	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64205" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileghDWAs"
+*** You are running in headless mode.
+2022-11-30 14:45:52.776 plugin-container[25599:484012] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:45:52.776 plugin-container[25599:484012] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:45:52.780 plugin-container[25599:484012] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:45:52.780 plugin-container[25599:484012] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:45:52.780 plugin-container[25599:484019] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:45:52.780 plugin-container[25599:484019] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669815952786	Marionette	INFO	Marionette enabled
+1669815952795	Marionette	INFO	Listening on port 64212
+Read port: 64212
+WebDriver BiDi listening on ws://127.0.0.1:64205
+1669815952931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileghDWAs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64205/devtools/browser/7c9c13e9-0ba7-42f1-a407-70b934d88bd6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript warning: https://findsynsrapport.fstyr.dk/_layouts/sp.ribbon.js?rev=F%2BUEJ66rbXzSvpf7nN69wQ%3D%3D, line 2: unreachable code after return statement
+1669816002521	geckodriver	INFO	Listening on 127.0.0.1:64270
+1669816002954	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64271" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileqpEiDG"
+*** You are running in headless mode.
+2022-11-30 14:46:43.175 plugin-container[25635:485001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:46:43.175 plugin-container[25635:485001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:46:43.181 plugin-container[25635:485001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:46:43.181 plugin-container[25635:485001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:46:43.181 plugin-container[25635:485025] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:46:43.181 plugin-container[25635:485025] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669816003186	Marionette	INFO	Marionette enabled
+1669816003194	Marionette	INFO	Listening on port 64278
+Read port: 64278
+WebDriver BiDi listening on ws://127.0.0.1:64271
+1669816003330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileqpEiDG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64271/devtools/browser/ad3491d7-bf45-4e12-9ddf-1e8349a73ac9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669816009372	Marionette	INFO	Stopped listening on port 64278
+1669816164317	geckodriver	INFO	Listening on 127.0.0.1:64645
+1669816164752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64646" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileg0uhWV"
+*** You are running in headless mode.
+2022-11-30 14:49:24.978 plugin-container[25688:486824] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:49:24.978 plugin-container[25688:486824] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:49:24.983 plugin-container[25688:486824] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:49:24.983 plugin-container[25688:486824] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:49:24.983 plugin-container[25688:486822] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:49:24.983 plugin-container[25688:486822] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669816164989	Marionette	INFO	Marionette enabled
+1669816164996	Marionette	INFO	Listening on port 64653
+Read port: 64653
+WebDriver BiDi listening on ws://127.0.0.1:64646
+1669816165134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileg0uhWV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64646/devtools/browser/5a7bb93c-aaac-4977-af53-ac14c39c0ead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669816177794	Marionette	INFO	Stopped listening on port 64653
+1669816348155	geckodriver	INFO	Listening on 127.0.0.1:64734
+1669816348607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64735" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile3Xgt8s"
+*** You are running in headless mode.
+2022-11-30 14:52:28.826 plugin-container[25733:488528] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:52:28.826 plugin-container[25733:488528] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:52:28.828 plugin-container[25733:488528] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:52:28.828 plugin-container[25733:488528] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:52:28.828 plugin-container[25733:488536] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:52:28.828 plugin-container[25733:488536] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669816348837	Marionette	INFO	Marionette enabled
+1669816348844	Marionette	INFO	Listening on port 64742
+Read port: 64742
+WebDriver BiDi listening on ws://127.0.0.1:64735
+1669816348978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile3Xgt8s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64735/devtools/browser/f2f4b6fb-e7e6-4828-a19c-ed795751ba08
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669816354543	Marionette	INFO	Stopped listening on port 64742
+1669816465643	geckodriver	INFO	Listening on 127.0.0.1:64803
+1669816466083	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64804" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofiletHs78W"
+*** You are running in headless mode.
+2022-11-30 14:54:26.295 plugin-container[25779:490286] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:54:26.295 plugin-container[25779:490286] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:54:26.299 plugin-container[25779:490286] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:54:26.299 plugin-container[25779:490286] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:54:26.300 plugin-container[25779:490291] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:54:26.300 plugin-container[25779:490291] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669816466305	Marionette	INFO	Marionette enabled
+1669816466334	Marionette	INFO	Listening on port 64812
+Read port: 64812
+WebDriver BiDi listening on ws://127.0.0.1:64804
+1669816466448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofiletHs78W/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64804/devtools/browser/7c63a53a-6e94-4280-bb3d-2a29f68f166f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669816480439	Marionette	INFO	Stopped listening on port 64812
+1669816581726	geckodriver	INFO	Listening on 127.0.0.1:64866
+1669816582158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64867" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile3YXWT1"
+*** You are running in headless mode.
+2022-11-30 14:56:22.378 plugin-container[25812:491427] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:56:22.378 plugin-container[25812:491427] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:56:22.381 plugin-container[25812:491427] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:56:22.381 plugin-container[25812:491427] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:56:22.381 plugin-container[25812:491436] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:56:22.381 plugin-container[25812:491436] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669816582389	Marionette	INFO	Marionette enabled
+1669816582397	Marionette	INFO	Listening on port 64874
+Read port: 64874
+WebDriver BiDi listening on ws://127.0.0.1:64867
+1669816582530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile3YXWT1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64867/devtools/browser/4107a9c9-64ec-4dc2-baf4-9183b062eb9a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669816590860	Marionette	INFO	Stopped listening on port 64874
+1669816712343	geckodriver	INFO	Listening on 127.0.0.1:64928
+1669816712775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64929" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileEHIN0w"
+*** You are running in headless mode.
+2022-11-30 14:58:33.011 plugin-container[25849:492673] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:58:33.011 plugin-container[25849:492673] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:58:33.014 plugin-container[25849:492673] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:58:33.014 plugin-container[25849:492673] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 14:58:33.014 plugin-container[25849:492681] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 14:58:33.014 plugin-container[25849:492681] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669816713021	Marionette	INFO	Marionette enabled
+1669816713029	Marionette	INFO	Listening on port 64937
+Read port: 64937
+WebDriver BiDi listening on ws://127.0.0.1:64929
+1669816713162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileEHIN0w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64929/devtools/browser/c1f1860f-8d8d-43df-a9aa-5e4f19ccfdb0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669816717808	Marionette	INFO	Stopped listening on port 64937
+1669816818439	geckodriver	INFO	Listening on 127.0.0.1:64991
+1669816818894	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64992" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileoRYJJM"
+*** You are running in headless mode.
+2022-11-30 15:00:19.134 plugin-container[25888:494051] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:00:19.134 plugin-container[25888:494051] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:00:19.139 plugin-container[25888:494051] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:00:19.139 plugin-container[25888:494051] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:00:19.139 plugin-container[25888:494049] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:00:19.139 plugin-container[25888:494049] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669816819146	Marionette	INFO	Marionette enabled
+1669816819161	Marionette	INFO	Listening on port 65000
+Read port: 65000
+WebDriver BiDi listening on ws://127.0.0.1:64992
+1669816819302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileoRYJJM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64992/devtools/browser/cf922e59-494f-44f3-9bb3-d609c1b9fab6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669816826074	Marionette	INFO	Stopped listening on port 65000
+1669817307433	geckodriver	INFO	Listening on 127.0.0.1:65091
+1669817307868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "65092" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilepGBmEe"
+*** You are running in headless mode.
+2022-11-30 15:08:28.078 plugin-container[25961:497308] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:08:28.079 plugin-container[25961:497308] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:08:28.081 plugin-container[25961:497308] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:08:28.081 plugin-container[25961:497308] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:08:28.081 plugin-container[25961:497310] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:08:28.081 plugin-container[25961:497310] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669817308087	Marionette	INFO	Marionette enabled
+1669817308097	Marionette	INFO	Listening on port 65099
+Read port: 65099
+WebDriver BiDi listening on ws://127.0.0.1:65092
+1669817308227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilepGBmEe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65092/devtools/browser/712b88bd-7a38-465e-bc81-a7264deefabd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669817313066	Marionette	INFO	Stopped listening on port 65099
+1669817366417	geckodriver	INFO	Listening on 127.0.0.1:65150
+1669817366853	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "65151" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile9ndukP"
+*** You are running in headless mode.
+2022-11-30 15:09:27.080 plugin-container[25994:498091] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:09:27.080 plugin-container[25994:498091] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:09:27.082 plugin-container[25994:498091] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:09:27.082 plugin-container[25994:498091] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:09:27.082 plugin-container[25994:498093] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:09:27.082 plugin-container[25994:498093] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669817367091	Marionette	INFO	Marionette enabled
+1669817367099	Marionette	INFO	Listening on port 65158
+Read port: 65158
+WebDriver BiDi listening on ws://127.0.0.1:65151
+1669817367235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile9ndukP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65151/devtools/browser/21740890-fd88-499d-9b5b-6849b4499ae0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669817371849	Marionette	INFO	Stopped listening on port 65158
+1669817611031	geckodriver	INFO	Listening on 127.0.0.1:65231
+1669817611475	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "65232" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilegjhXA1"
+*** You are running in headless mode.
+2022-11-30 15:13:31.701 plugin-container[26051:500080] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:13:31.701 plugin-container[26051:500080] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:13:31.708 plugin-container[26051:500080] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:13:31.708 plugin-container[26051:500080] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:13:31.708 plugin-container[26051:500078] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:13:31.708 plugin-container[26051:500078] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669817611716	Marionette	INFO	Marionette enabled
+1669817611723	Marionette	INFO	Listening on port 65239
+Read port: 65239
+WebDriver BiDi listening on ws://127.0.0.1:65232
+1669817611859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilegjhXA1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65232/devtools/browser/dfed62ae-93e8-43e7-b526-5c7657b839b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669817617010	Marionette	INFO	Stopped listening on port 65239
+1669817757863	geckodriver	INFO	Listening on 127.0.0.1:65310
+1669817758301	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "65311" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileXDViKT"
+*** You are running in headless mode.
+2022-11-30 15:15:58.514 plugin-container[26098:501618] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:15:58.517 plugin-container[26098:501618] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:15:58.519 plugin-container[26098:501618] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:15:58.519 plugin-container[26098:501618] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:15:58.519 plugin-container[26098:501623] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:15:58.519 plugin-container[26098:501623] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669817758524	Marionette	INFO	Marionette enabled
+1669817758543	Marionette	INFO	Listening on port 65318
+Read port: 65318
+WebDriver BiDi listening on ws://127.0.0.1:65311
+1669817758737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileXDViKT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65311/devtools/browser/ab336875-d2c0-4700-987d-3eaa7190c043
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669817765240	Marionette	INFO	Stopped listening on port 65318
+1669818267425	geckodriver	INFO	Listening on 127.0.0.1:65412
+1669818267871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "65413" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileZVGK5K"
+*** You are running in headless mode.
+2022-11-30 15:24:28.101 plugin-container[26194:505571] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:24:28.101 plugin-container[26194:505571] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:24:28.107 plugin-container[26194:505571] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:24:28.107 plugin-container[26194:505571] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:24:28.107 plugin-container[26194:505577] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:24:28.107 plugin-container[26194:505577] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669818268112	Marionette	INFO	Marionette enabled
+1669818268120	Marionette	INFO	Listening on port 65420
+Read port: 65420
+WebDriver BiDi listening on ws://127.0.0.1:65413
+1669818268258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileZVGK5K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65413/devtools/browser/de9e6973-7ba0-4371-bf1a-9af9792b9ff7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669818273776	Marionette	INFO	Stopped listening on port 65420
+1669818346191	geckodriver	INFO	Listening on 127.0.0.1:65473
+1669818346634	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "65474" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileZBPrDz"
+*** You are running in headless mode.
+2022-11-30 15:25:46.851 plugin-container[26226:506501] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:25:46.851 plugin-container[26226:506501] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:25:46.853 plugin-container[26226:506501] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:25:46.853 plugin-container[26226:506501] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:25:46.853 plugin-container[26226:506525] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:25:46.853 plugin-container[26226:506525] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669818346863	Marionette	INFO	Marionette enabled
+1669818346874	Marionette	INFO	Listening on port 65481
+Read port: 65481
+WebDriver BiDi listening on ws://127.0.0.1:65474
+1669818347004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileZBPrDz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65474/devtools/browser/589363c4-ff45-4b69-8497-4dd57056d1bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669818362232	Marionette	INFO	Stopped listening on port 65481
+1669818411454	geckodriver	INFO	Listening on 127.0.0.1:65531
+1669818411893	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "65532" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileu7pYOt"
+*** You are running in headless mode.
+2022-11-30 15:26:52.103 plugin-container[26253:507285] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:26:52.103 plugin-container[26253:507285] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:26:52.107 plugin-container[26253:507285] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:26:52.107 plugin-container[26253:507285] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:26:52.107 plugin-container[26253:507288] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:26:52.107 plugin-container[26253:507288] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669818412113	Marionette	INFO	Marionette enabled
+1669818412141	Marionette	INFO	Listening on port 49155
+Read port: 49155
+WebDriver BiDi listening on ws://127.0.0.1:65532
+1669818412259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileu7pYOt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65532/devtools/browser/f576f0da-76a2-4d9a-b9e5-57043ed3fced
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669818427822	Marionette	INFO	Stopped listening on port 49155
+1669818529261	geckodriver	INFO	Listening on 127.0.0.1:49207
+1669818529711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "49208" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileGpekph"
+*** You are running in headless mode.
+2022-11-30 15:28:49.935 plugin-container[26283:508365] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:28:49.935 plugin-container[26283:508365] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:28:49.938 plugin-container[26283:508365] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:28:49.938 plugin-container[26283:508365] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:28:49.938 plugin-container[26283:508371] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:28:49.938 plugin-container[26283:508371] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669818529945	Marionette	INFO	Marionette enabled
+1669818529953	Marionette	INFO	Listening on port 49215
+Read port: 49215
+WebDriver BiDi listening on ws://127.0.0.1:49208
+1669818530092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileGpekph/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49208/devtools/browser/cda69bfd-0745-4a24-b838-7f3b7a0e3346
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669818534927	Marionette	INFO	Stopped listening on port 49215
+1669818552943	geckodriver	INFO	Listening on 127.0.0.1:49264
+1669818553379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "49265" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileqy9Mnw"
+*** You are running in headless mode.
+2022-11-30 15:29:13.597 plugin-container[26307:508897] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:29:13.598 plugin-container[26307:508897] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:29:13.602 plugin-container[26307:508897] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:29:13.602 plugin-container[26307:508897] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:29:13.602 plugin-container[26307:508904] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:29:13.602 plugin-container[26307:508904] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669818553609	Marionette	INFO	Marionette enabled
+1669818553635	Marionette	INFO	Listening on port 49272
+Read port: 49272
+WebDriver BiDi listening on ws://127.0.0.1:49265
+1669818553752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileqy9Mnw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49265/devtools/browser/e04b40e5-3b7f-4b7d-95f9-e6d0319f9b5a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669818558860	Marionette	INFO	Stopped listening on port 49272
+1669818632975	geckodriver	INFO	Listening on 127.0.0.1:49322
+1669818633422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "49323" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileopL61D"
+*** You are running in headless mode.
+2022-11-30 15:30:33.652 plugin-container[26348:509847] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:30:33.652 plugin-container[26348:509847] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:30:33.655 plugin-container[26348:509847] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:30:33.655 plugin-container[26348:509847] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:30:33.655 plugin-container[26348:509873] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:30:33.655 plugin-container[26348:509873] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669818633662	Marionette	INFO	Marionette enabled
+1669818633670	Marionette	INFO	Listening on port 49330
+Read port: 49330
+WebDriver BiDi listening on ws://127.0.0.1:49323
+1669818633804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileopL61D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49323/devtools/browser/1312aabb-178a-4047-b4fd-9e3e856f9c43
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669818639969	Marionette	INFO	Stopped listening on port 49330
+1669818664535	geckodriver	INFO	Listening on 127.0.0.1:49378
+1669818664969	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "49379" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileeMR4ma"
+*** You are running in headless mode.
+2022-11-30 15:31:05.190 plugin-container[26374:510484] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:31:05.190 plugin-container[26374:510484] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:31:05.196 plugin-container[26374:510484] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:31:05.196 plugin-container[26374:510484] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-30 15:31:05.196 plugin-container[26374:510513] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-30 15:31:05.196 plugin-container[26374:510513] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669818665202	Marionette	INFO	Marionette enabled
+1669818665231	Marionette	INFO	Listening on port 49386
+Read port: 49386
+WebDriver BiDi listening on ws://127.0.0.1:49379
+1669818665348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileeMR4ma/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49379/devtools/browser/8e996e26-7738-4be1-a3d7-afc75b574669
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669818680847	Marionette	INFO	Stopped listening on port 49386
+1669894351759	geckodriver	INFO	Listening on 127.0.0.1:53711
+1669894352212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53712" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilesEM65V"
+*** You are running in headless mode.
+2022-12-01 12:32:32.443 plugin-container[31718:679061] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 12:32:32.443 plugin-container[31718:679061] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669894352446	Marionette	INFO	Marionette enabled
+2022-12-01 12:32:32.449 plugin-container[31718:679061] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 12:32:32.449 plugin-container[31718:679061] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 12:32:32.449 plugin-container[31718:679066] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 12:32:32.449 plugin-container[31718:679066] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669894352454	Marionette	INFO	Listening on port 53719
+Read port: 53719
+WebDriver BiDi listening on ws://127.0.0.1:53712
+1669894352597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilesEM65V/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53712/devtools/browser/e26ad019-c1c6-4d79-b322-fa0c59259dbd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669894358745	Marionette	INFO	Stopped listening on port 53719
+1669894445906	geckodriver	INFO	Listening on 127.0.0.1:53770
+1669894446344	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53771" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileTmqJTC"
+*** You are running in headless mode.
+2022-12-01 12:34:06.549 plugin-container[31747:679911] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 12:34:06.549 plugin-container[31747:679911] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 12:34:06.551 plugin-container[31747:679911] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 12:34:06.551 plugin-container[31747:679911] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 12:34:06.551 plugin-container[31747:679908] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 12:34:06.551 plugin-container[31747:679908] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669894446561	Marionette	INFO	Marionette enabled
+1669894446569	Marionette	INFO	Listening on port 53778
+Read port: 53778
+WebDriver BiDi listening on ws://127.0.0.1:53771
+1669894446704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileTmqJTC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53771/devtools/browser/31f96edf-b9d9-414c-b08a-50136118dd63
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669894458996	Marionette	INFO	Stopped listening on port 53778
+1669896538519	geckodriver	INFO	Listening on 127.0.0.1:54022
+1669896538959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54023" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileCy88Ax"
+*** You are running in headless mode.
+2022-12-01 13:08:59.174 plugin-container[32019:692031] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:08:59.174 plugin-container[32019:692031] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:08:59.179 plugin-container[32019:692031] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:08:59.179 plugin-container[32019:692031] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:08:59.179 plugin-container[32019:692056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:08:59.179 plugin-container[32019:692056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669896539187	Marionette	INFO	Marionette enabled
+1669896539218	Marionette	INFO	Listening on port 54030
+Read port: 54030
+WebDriver BiDi listening on ws://127.0.0.1:54023
+1669896539330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileCy88Ax/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54023/devtools/browser/735b345c-53ec-4ed6-b8cc-775daedb2720
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669896543970	Marionette	INFO	Stopped listening on port 54030
+1669896571806	geckodriver	INFO	Listening on 127.0.0.1:54078
+1669896572231	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54079" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilec94F1v"
+*** You are running in headless mode.
+2022-12-01 13:09:32.448 plugin-container[32042:692587] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:09:32.448 plugin-container[32042:692587] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:09:32.450 plugin-container[32042:692587] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:09:32.450 plugin-container[32042:692587] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:09:32.450 plugin-container[32042:692591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:09:32.450 plugin-container[32042:692591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669896572459	Marionette	INFO	Marionette enabled
+1669896572466	Marionette	INFO	Listening on port 54086
+Read port: 54086
+WebDriver BiDi listening on ws://127.0.0.1:54079
+1669896572598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilec94F1v/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54079/devtools/browser/a25080ec-9f94-488b-95b1-81c187627dd7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669896577101	Marionette	INFO	Stopped listening on port 54086
+1669896590684	geckodriver	INFO	Listening on 127.0.0.1:54132
+1669896591133	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54133" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileKwnKJ9"
+*** You are running in headless mode.
+2022-12-01 13:09:51.348 plugin-container[32064:693054] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:09:51.348 plugin-container[32064:693054] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:09:51.350 plugin-container[32064:693054] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:09:51.350 plugin-container[32064:693054] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:09:51.350 plugin-container[32064:693056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:09:51.350 plugin-container[32064:693056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669896591359	Marionette	INFO	Marionette enabled
+1669896591367	Marionette	INFO	Listening on port 54140
+Read port: 54140
+WebDriver BiDi listening on ws://127.0.0.1:54133
+1669896591497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileKwnKJ9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54133/devtools/browser/df00b8fb-b5a9-4740-a11f-11062debd7cf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669896596177	Marionette	INFO	Stopped listening on port 54140
+1669896608528	geckodriver	INFO	Listening on 127.0.0.1:54187
+1669896608980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54188" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileqgc0WI"
+*** You are running in headless mode.
+2022-12-01 13:10:09.193 plugin-container[32086:693548] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:10:09.194 plugin-container[32086:693548] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:10:09.195 plugin-container[32086:693548] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:10:09.195 plugin-container[32086:693548] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:10:09.195 plugin-container[32086:693546] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:10:09.195 plugin-container[32086:693546] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669896609205	Marionette	INFO	Marionette enabled
+1669896609212	Marionette	INFO	Listening on port 54195
+Read port: 54195
+WebDriver BiDi listening on ws://127.0.0.1:54188
+1669896609344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileqgc0WI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54188/devtools/browser/5f2de167-a65d-476f-9124-baf76a4f0fad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669896616936	Marionette	INFO	Stopped listening on port 54195
+1669896646820	geckodriver	INFO	Listening on 127.0.0.1:54244
+1669896647262	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54245" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile5OZEsZ"
+*** You are running in headless mode.
+2022-12-01 13:10:47.482 plugin-container[32112:694189] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:10:47.483 plugin-container[32112:694189] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:10:47.484 plugin-container[32112:694189] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:10:47.484 plugin-container[32112:694189] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:10:47.485 plugin-container[32112:694194] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:10:47.485 plugin-container[32112:694194] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669896647494	Marionette	INFO	Marionette enabled
+1669896647503	Marionette	INFO	Listening on port 54252
+Read port: 54252
+WebDriver BiDi listening on ws://127.0.0.1:54245
+1669896647636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofile5OZEsZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54245/devtools/browser/0965e920-da1d-4ca2-9280-22b82957b546
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669896668104	Marionette	INFO	Stopped listening on port 54252
+1669896687011	geckodriver	INFO	Listening on 127.0.0.1:54300
+1669896687447	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54301" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileCIoPiH"
+*** You are running in headless mode.
+2022-12-01 13:11:27.658 plugin-container[32138:694872] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:11:27.658 plugin-container[32138:694872] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:11:27.662 plugin-container[32138:694872] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:11:27.662 plugin-container[32138:694872] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:11:27.663 plugin-container[32138:694880] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:11:27.663 plugin-container[32138:694880] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669896687670	Marionette	INFO	Marionette enabled
+1669896687698	Marionette	INFO	Listening on port 54308
+Read port: 54308
+WebDriver BiDi listening on ws://127.0.0.1:54301
+1669896687810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileCIoPiH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54301/devtools/browser/e4e2db3d-884e-4b02-b88c-2a678be29a7f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669896693276	Marionette	INFO	Stopped listening on port 54308
+1669897527362	geckodriver	INFO	Listening on 127.0.0.1:54494
+1669897527800	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54495" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileCytgF7"
+*** You are running in headless mode.
+2022-12-01 13:25:28.031 plugin-container[32269:700472] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:25:28.031 plugin-container[32269:700472] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:25:28.035 plugin-container[32269:700472] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:25:28.035 plugin-container[32269:700472] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 13:25:28.036 plugin-container[32269:700470] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 13:25:28.036 plugin-container[32269:700470] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669897528041	Marionette	INFO	Marionette enabled
+1669897528070	Marionette	INFO	Listening on port 54502
+Read port: 54502
+WebDriver BiDi listening on ws://127.0.0.1:54495
+1669897528182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileCytgF7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54495/devtools/browser/4be7defa-28bd-4e4e-a713-7b6a8e488aaa
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+1669897533150	Marionette	INFO	Stopped listening on port 54502

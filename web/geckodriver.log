@@ -2973,3 +2973,90 @@ JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: , line 0: uncaught exception: Object
 1669551291559	Marionette	INFO	Stopped listening on port 54999
+1669564577288	geckodriver	INFO	Listening on 127.0.0.1:54721
+1669564577463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54722" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileblQeaw"
+*** You are running in headless mode.
+2022-11-27 16:56:17.697 plugin-container[7475:82076] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 16:56:17.697 plugin-container[7475:82076] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669564577714	Marionette	INFO	Marionette enabled
+2022-11-27 16:56:17.728 plugin-container[7475:82076] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 16:56:17.728 plugin-container[7475:82076] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 16:56:17.729 plugin-container[7475:82103] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 16:56:17.729 plugin-container[7475:82103] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669564577740	Marionette	INFO	Listening on port 54729
+Read port: 54729
+WebDriver BiDi listening on ws://127.0.0.1:54722
+1669564577854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileblQeaw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54722/devtools/browser/9931f368-c357-41d1-b245-f68041a728ba
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+1669564582890	Marionette	INFO	Stopped listening on port 54729
+1669569259257	geckodriver	INFO	Listening on 127.0.0.1:56398
+1669569259697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56399" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilemwXkSI"
+*** You are running in headless mode.
+2022-11-27 18:14:19.924 plugin-container[16537:181236] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 18:14:19.925 plugin-container[16537:181236] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669569259944	Marionette	INFO	Marionette enabled
+2022-11-27 18:14:19.958 plugin-container[16537:181236] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 18:14:19.958 plugin-container[16537:181236] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 18:14:19.958 plugin-container[16537:181234] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 18:14:19.958 plugin-container[16537:181234] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669569259973	Marionette	INFO	Listening on port 56406
+Read port: 56406
+WebDriver BiDi listening on ws://127.0.0.1:56399
+1669569260077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofilemwXkSI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56399/devtools/browser/dfb61b16-db6d-4565-966c-8fc8234f74ce
+2022-11-27 17:15:23.280 plugin-container[16556:181990] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:15:23.280 plugin-container[16556:181990] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:15:23.282 plugin-container[16556:181990] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:15:23.282 plugin-container[16556:181990] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:15:23.282 plugin-container[16556:182007] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:15:23.282 plugin-container[16556:182007] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669569381408	geckodriver	INFO	Listening on 127.0.0.1:56486
+1669569381850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56487" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileDRRBKj"
+*** You are running in headless mode.
+2022-11-27 18:16:22.053 plugin-container[16598:183386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 18:16:22.053 plugin-container[16598:183386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 18:16:22.055 plugin-container[16598:183386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 18:16:22.055 plugin-container[16598:183386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 18:16:22.055 plugin-container[16598:183384] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 18:16:22.055 plugin-container[16598:183384] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669569382064	Marionette	INFO	Marionette enabled
+1669569382072	Marionette	INFO	Listening on port 56494
+Read port: 56494
+WebDriver BiDi listening on ws://127.0.0.1:56487
+1669569382201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileDRRBKj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56487/devtools/browser/df524d53-76fa-4328-a08f-0a16406d7155
+2022-11-27 17:16:25.087 plugin-container[16605:183610] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:16:25.087 plugin-container[16605:183610] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:16:25.089 plugin-container[16605:183610] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:16:25.089 plugin-container[16605:183610] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-27 17:16:25.089 plugin-container[16605:183624] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-27 17:16:25.089 plugin-container[16605:183624] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
+1669569517426	Marionette	INFO	Stopped listening on port 56494

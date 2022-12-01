@@ -12,12 +12,10 @@ def clean_data(data):
     
     #Cleans price and first regestration
     non_word = re.compile(r'\D')
-    df['price'] = df['price'].str.replace(r'\D','')
+    df['price'] = df['price'].str.replace(r'\D','',regex=True)
     df['price'] = df['price'].astype('int64')
     df['reg'] = df['reg'].str.split('-').str[0]
     df['reg'] = df['reg'].astype('int64')
-    
-    print(df['fuel_type'][0])
     
     electric_car = True
     
@@ -44,15 +42,24 @@ def get_prediction_score(target,pred_target):
 def linear_reg(df,electric_car):
 
     #Sets features and target
+    feautre_list =[]
+    
     X = ''
     if(electric_car == False):
-        X = df[['model_year', 'km','reg','fuel_economy','horse_power','gear_type_A','gear_type_M','fuel_type_Benzin','fuel_type_Diesel']]
+        feautre_list= ['model_year','reg','km','fuel_economy','horse_power','gear_type_A','gear_type_M']
+        if 'fuel_type_Benzin' in df.columns:
+            feautre_list.append('fuel_type_Benzin')
+        if 'fuel_type_Diesel' in df.columns:
+            feautre_list.append('fuel_type_Diesel')
+        
     else:
-        X = df[['model_year', 'km','reg','fuel_economy','horse_power']]
+        feautre_list = ['model_year','reg','km','fuel_economy','horse_power']
+        
+    X= df[feautre_list]
     y = df['price']
     
     #split data and fit model
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.5, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
     regr = linear_model.LinearRegression()
     regr.fit(X_train, y_train)
 
@@ -72,15 +79,24 @@ def linear_reg(df,electric_car):
 
 def decision_tree_reg(df,electric_car):
     #Sets features and target
+    feautre_list =[]
+    
     X = ''
     if(electric_car == False):
-        X = df[['model_year', 'km','reg','fuel_economy','horse_power','gear_type_A','gear_type_M','fuel_type_Benzin','fuel_type_Diesel']]
+        feautre_list= ['model_year','reg','km','fuel_economy','horse_power','gear_type_A','gear_type_M']
+        if 'fuel_type_Benzin' in df.columns:
+            feautre_list.append('fuel_type_Benzin')
+        if 'fuel_type_Diesel' in df.columns:
+            feautre_list.append('fuel_type_Diesel')
+        
     else:
-        X = df[['model_year', 'km','reg','fuel_economy','horse_power']]
+        feautre_list = ['model_year','reg','km','fuel_economy','horse_power']
+        
+    X= df[feautre_list]
     y = df['price']
     
     #split data and fit model
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.5, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
     dtr = DecisionTreeRegressor()
     dtr.fit(X_train, y_train)
     

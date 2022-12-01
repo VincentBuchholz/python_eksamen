@@ -44,7 +44,7 @@ def motor_register_interaction(numberplate):
     fuel_type = browser.find_element(By.XPATH,
                                      '/html/body/div[2]/div/div[1]/div[2]/div[3]/div/div[2]/div[1]/div[3]/div/div[1]/div[2]/div[2]/span').text
     fuel_economy = browser.find_element(By.XPATH,
-                                        '/html/body/div[2]/div/div[1]/div[2]/div[3]/div/div[2]/div[1]/div[4]/div/div[1]/div[1]/div[2]/span[1]').text
+                                        '/html/body/div[2]/div/div[1]/div[2]/div[3]/div/div[2]/div[1]/div[4]/div/div[1]/div[3]/div[2]/span[1]').text
     kw = browser.find_element(By.XPATH,
                               '/html/body/div[2]/div/div[1]/div[2]/div[3]/div/div[2]/div[1]/div[3]/div/div[2]/div[2]/div[2]/span[1]').text
 
@@ -70,6 +70,8 @@ def cleanupData(brand, model, year, first_reg_year, gear_type, km, fuel_type, fu
     gear_type = gear_type.replace('Nej', 'M').replace('Ja', 'A')
     model = model.lstrip().replace(' ', '_')
     horse_power = round(float(kw) * 1.35962)
+    first_reg_year = first_reg_year.split('-')[2]
+    fuel_economy = fuel_economy.replace(',','.')
     car_dict_cleaned = {'brand': brand,
                         'model': model,
                         'model_year': year,
