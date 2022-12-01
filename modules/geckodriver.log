@@ -1229,3 +1229,39 @@ DevTools listening on ws://127.0.0.1:54495/devtools/browser/4be7defa-28bd-4e4e-a
 JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
 JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-8NN6, line 37: uncaught exception: [object Object]
 1669897533150	Marionette	INFO	Stopped listening on port 54502
+1669898927154	geckodriver	INFO	Listening on 127.0.0.1:49261
+1669898930186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49262" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vbnym\\AppData\\Local\\Temp\\rust_mozprofile4n6v2f"
+*** You are running in headless mode.
+1669898930637	Marionette	INFO	Marionette enabled
+1669898930642	Marionette	INFO	Listening on port 49272
+WebDriver BiDi listening on ws://127.0.0.1:49262
+Read port: 49272
+1669898930893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vbnym\\AppData\\Local\\Temp\\rust_mozprofile4n6v2f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49262/devtools/browser/8141f035-ffe1-4659-9a37-64575454e6f3
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+1669898935165	Marionette	INFO	Stopped listening on port 49272
+1669899551894	geckodriver	INFO	Listening on 127.0.0.1:49600
+1669899554955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vbnym\\AppData\\Local\\Temp\\rust_mozprofileRosQ5w"
+*** You are running in headless mode.
+1669899555267	Marionette	INFO	Marionette enabled
+1669899555271	Marionette	INFO	Listening on port 49610
+Read port: 49610
+WebDriver BiDi listening on ws://127.0.0.1:49601
+1669899555337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vbnym\\AppData\\Local\\Temp\\rust_mozprofileRosQ5w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49601/devtools/browser/ac5f73e8-258e-4ee7-8b8b-b3985db328b8
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
+1669899561001	Marionette	INFO	Stopped listening on port 49610

@@ -9,20 +9,20 @@ def detect_numberplate(image_src):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
     # Makes a noise reduction filter
-    noise_filter = cv2.bilateralFilter(gray, 20, 20, 20)
+    noise_filter = cv2.bilateralFilter(gray, 20, 100, 100)
     # Finds edges
-    edged_image = cv2.Canny(noise_filter, 50, 200)
+    edged_image = cv2.Canny(noise_filter, 50, 150, L2gradient =True)
 
     # Finds contours
-    keypoints = cv2.findContours(edged_image.copy(), cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
-    contours = imutils.grab_contours(keypoints)
+    contours,h = cv2.findContours(edged_image.copy(), cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+
     contours = sorted(contours, key=cv2.contourArea, reverse=True)  # Sort contours from big to small
 
     numberplate = None
     # Loops through contours
     for contour in contours:
         # Finds a rect shape contour with four sides
-        approx = cv2.approxPolyDP(contour, 10, True)
+        approx = cv2.approxPolyDP(contour, 30, True)
         if len(approx) == 4:
             numberplate = approx
             break
@@ -36,10 +36,10 @@ def detect_numberplate(image_src):
     (x, y) = np.where(mask == 255)
     (x1, y1) = (np.min(x), np.min(y))
     (x2, y2) = (np.max(x), np.max(y))
-    cropped_image = gray[x1:x2 - 1, y1:y2 - 10]
+    cropped_image = img[x1:x2, y1:y2 - 7]
 
     # Easy ocr to find the text in image
-    reader = easyocr.Reader(['en'])
+    reader = easyocr.Reader(['da'],gpu=False)
     result = reader.readtext(cropped_image, allowlist='ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', detail=0)
     
     #If ocr finds more that one text it finds out if the text have a length of 7 and clean up spaces and [] in the words
