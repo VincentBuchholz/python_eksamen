@@ -4,6 +4,10 @@
 # website: http://jupyter.org/
 geckodriver.log
 */geckodriver.log/*
+GeckoDriver*.log
+**/geckodriver.log
+modules/geckodriver.log
+/geckodriver.log
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*

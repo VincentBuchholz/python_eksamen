@@ -1265,3 +1265,24 @@ JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js
 JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
 JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1024: ReferenceError: VirkHeader is not defined
 1669899561001	Marionette	INFO	Stopped listening on port 49610
+1669899732807	geckodriver	INFO	Listening on 127.0.0.1:54805
+1669899733253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54806" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileK6KE5H"
+*** You are running in headless mode.
+2022-12-01 14:02:13.473 plugin-container[32640:713871] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 14:02:13.473 plugin-container[32640:713871] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 14:02:13.484 plugin-container[32640:713871] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 14:02:13.484 plugin-container[32640:713871] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-01 14:02:13.484 plugin-container[32640:713896] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-01 14:02:13.484 plugin-container[32640:713896] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669899733485	Marionette	INFO	Marionette enabled
+1669899733512	Marionette	INFO	Listening on port 54813
+Read port: 54813
+WebDriver BiDi listening on ws://127.0.0.1:54806
+1669899733623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/6j/ytdrqb3x76bcbx_6cz_g_l1h0000gn/T/rust_mozprofileK6KE5H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54806/devtools/browser/6d5c6c31-76ff-4c0e-a4b5-31afc20361b6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://motorregister.skat.dk."
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+JavaScript error: https://motorregister.skat.dk/dmr-kerne/framework/skins/dmr/js/dmr.js, line 1438: TypeError: $(...).getElementsByTagName is not a function
+1669899738213	Marionette	INFO	Stopped listening on port 54813
