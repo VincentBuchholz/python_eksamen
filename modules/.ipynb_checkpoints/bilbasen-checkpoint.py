@@ -50,7 +50,7 @@ def bilbasen_interaction(make, model):
     return links
 
 def get_details(urls):
-    df = pd.DataFrame(columns=['price','model_year','km','reg'])
+    df = pd.DataFrame()
     print(f'Getting details for {len(urls)} cars')
     for url in urls:
         try:
