@@ -1,12 +1,27 @@
-# python eksamen
+# Car Price Predictor
 
-To run project, use: python3 price_predictor.py --image path (path = path to any of the images in the images folder, these have corresponding bilbasen data in the data folder)
+## Description:
+This project detectes and reads numberplates, scrapes data from multiple sites (motorregister, findsynsrapport and bilbasen) to give an estimated price for the car, through linear regression and descision tree regressor
 
-more car data can be scraped with bilbasen.py
 
-numberplate_detector.py can be used to get the text from the numberplate of a car.
+## How to run the project 
+To run project, use: python3 price_predictor.py --image path (path = path to any of the images in the images folder, these have corresponding bilbasen data in the data folder) --km km (km = km-count of car, this is optional.)
 
-motorregister.py scrapes data from motorregisteret and findsynsrapport.
+more car data can be scraped with bilbasen.py, see --help for more information.
+
+numberplate_detector.py can be used to get the text from the numberplate of a car, see --help for more information.
+
+motorregister.py scrapes data from motorregisteret and findsynsrapport, see --help for more information.
+
+## Status
+The project works for Petrol, Diesel and electric cars, but not for hybrid cars. 
+
+
+## Challenges:
+There were several challenges in this project:
+- cropping numberplates in images so easyOCR is able to read the text.
+- Webscraping the data we need.
+- Finding the best models to predict price. 
 
 
 # Requirements:
@@ -30,7 +45,7 @@ motorregister.py scrapes data from motorregisteret and findsynsrapport.
 - bs4
 - json
 - requests
-- re
+- sklearn
 - pandas
 - csv
 - numpy
